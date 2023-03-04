@@ -57,6 +57,6 @@ int main() {
   }
   if(num<=0)
   {
-    cout<<endl<<"Why you no follow directions! Restart and try again. / ಠ_ಠ /";
+    cout<<endl<<"Why you no follow directions! Bad bad child! Restart and try again. / ಠ_ಠ /";
   }
 }
